@@ -10,8 +10,6 @@ externalLink = ""
 series = []
 +++
 
-# High Fiber Overnight Oats
-
 - Active time: 5 min
 - Total time: minimum 8 hours
 - Servings: 1

@@ -4,8 +4,6 @@ title = 'Dairy Free Mac N Cheese'
 tags = ['No_Dairy', 'Dinner']
 +++
 
-# Dairy Free Mac n' Cheese
-
 - Active time: 30 mins
 - Total time: 1 hour
 - Servings: 12
