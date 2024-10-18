@@ -5,7 +5,7 @@ description = ""
 slug = ""
 authors = []
 tags = [Oats, Breakfast]
-categories = []
+categories = [Breakfast]
 externalLink = ""
 series = []
 +++
