@@ -4,8 +4,8 @@ title = 'High Fiber Overnight Oats'
 description = ""
 slug = ""
 authors = []
-tags = [Oats, Breakfast]
-categories = [Breakfast]
+tags = []
+categories = []
 externalLink = ""
 series = []
 +++
