@@ -1,6 +1,5 @@
 +++
 date = '2024-10-18T20:20:13-04:00'
-draft = true
 title = 'Bottom Friendly Fajitas'
 tags = ['dinner', 'gluten-free', 'mexican', 'lunch']
 +++
