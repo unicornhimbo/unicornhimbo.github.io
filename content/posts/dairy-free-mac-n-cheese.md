@@ -1,7 +1,7 @@
 +++
 date = '2024-10-18T18:04:47-04:00'
 title = 'Dairy Free Mac N Cheese'
-tags = ['No_Dairy', 'Dinner']
+tags = ['dairy-free', 'dinner']
 +++
 
 - Active time: 30 mins
